@@ -1,2 +1,4 @@
 # Indeed_Scraping_Assignment
-This assignment used R Selenium to scrape Data Analyst jobs from Indeed, collecting titles, companies, locations, and descriptions into a CSV. The code no longer works due to Indeed's security requiring API use. This was purely educational, and all data was disposed of safely and responsibly.
+This was an assignment I conducted as part of my Digital Strategies for the Social Sciences course. I used authentication through R Selenium to log into Indeed and scraped Data Analyst job postings from the United States to collect information such as job title, company, location, short description, and job URL. Finally, I converted the collected data into a data frame and exported it as a CSV file. 
+
+It's important to note that this code no longer works due to Indeed's enhanced security measures, where they now strongly recommend that researchers use their official API to access data, which is both legal and ethical. I conducted this project solely for educational purposes with no intent to harm the company, and I disposed of the collected data safely and responsibly.
